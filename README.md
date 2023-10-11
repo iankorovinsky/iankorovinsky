@@ -1,5 +1,5 @@
-<p align="center">
-  <img width="800" height="400" object-fit="cover" src="https://i.pinimg.com/originals/c3/d7/cb/c3d7cbaa5f60151cc8b15ce6aecd65b4.gif" alt="👋 Hey, I'm Ian" title="👋 Hey, I'm Ian"/>
+<p align="center" margin="auto">
+  <img src="https://github.com/iankorovinsky/iankorovinsky/blob/main/gif.gif" alt="Hey, I'm Ian 👋!" width="100%" />
 </p>
 
 ## 😊 About Me! 
