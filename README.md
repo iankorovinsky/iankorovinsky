@@ -10,7 +10,7 @@ Hey, I'm Ian 👋, I'm a Software Engineering student at the University of Water
 - 2x Intern @ Bloomberg working on semantic search, model training, and multi-agent systems
 - 2x Intern @ Sibli working on graph algorithms and data pipelines
 - 10x Hackathon Winner
-- #99639 on Beli
+- #99639 Ranked Eater on Beli
 
 ![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iankorovinsky&count_private=true)
 
