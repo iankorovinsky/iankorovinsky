@@ -3,7 +3,7 @@
 </p>
 
 ## 😊 About Me! 
-Hey, I'm Ian 👋, I'm a Software Engineering student at the University of Waterloo and a full-stack developer with a specialization in artificial intelligence and machine learning. I enjoy creating futuristic tech at hackathons and meeting fellow developers passionate about building cool projects!
+Hey, I'm [Ian](https://www.iankorovinsky.ca/) 👋, I'm a Software Engineering student at the University of Waterloo and a full-stack developer with a specialization in artificial intelligence and machine learning. I enjoy creating futuristic tech at [hackathons](https://devpost.com/ian-korovinsky) and meeting fellow developers passionate about building cool projects!
 
 ## 🌱 About Me
 - Co-Director at [Hack the North](https://www.hackthenorth.com) (Canada's largest hackathon)
