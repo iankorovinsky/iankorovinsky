@@ -6,7 +6,7 @@
 Hey, I'm [Ian](https://www.iankorovinsky.ca/) 👋, I'm a Software Engineering student at the University of Waterloo and a full-stack developer with a specialization in artificial intelligence and machine learning. I enjoy creating futuristic tech at [hackathons](https://devpost.com/ian-korovinsky) and meeting fellow developers passionate about building cool projects!
 
 ## 🌱 About Me
-- Engineering @ Thrive Capital
+- Engineering @ [Thrive Capital](https://www.thrivecap.com)
 - Co-Director at [Hack the North](https://www.hackthenorth.com) (Canada's largest hackathon)
 - 2x Intern @ Bloomberg working on semantic search, model training, and multi-agent systems
 - 2x Intern @ Sibli working on graph algorithms and data pipelines
