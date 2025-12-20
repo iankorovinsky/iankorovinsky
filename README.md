@@ -13,7 +13,5 @@ Hey, I'm [Ian](https://www.iankorovinsky.ca/) 👋, I'm a Software Engineering s
 - 10x Hackathon Winner
 - #99639 Ranked Eater on Beli
 
-![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iankorovinsky&count_private=true)
-
 ## 📫 How to Connect:
 If you're ever interested in chatting, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ian-korovinsky/)!
