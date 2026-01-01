@@ -3,7 +3,9 @@
 </p>
 
 ## 😊 About Me! 
-Hey, I'm [Ian](https://www.iankorovinsky.ca/) 👋 I build products that solve problems, host events that bring interesting people together, and support builders at their earliest stages.
+Hey, I'm [Ian](https://www.iankorovinsky.ca/) 👋 
+
+I build products that solve problems, host events that bring interesting people together, and support builders at their earliest stages.
 
 
 
@@ -16,4 +18,4 @@ Hey, I'm [Ian](https://www.iankorovinsky.ca/) 👋 I build products that solve p
 - #99639 Ranked Eater on Beli
 
 ## 📫 How to Connect:
-If you're ever interested in chatting, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ian-korovinsky/)!
+If you're ever interested in chatting, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ian-korovinsky/) or [X](https://www.x.com/ikorovinsky)!
