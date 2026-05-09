@@ -10,6 +10,7 @@ I build products that solve problems, host events that bring interesting people 
 
 
 ## 🌱 About Me
+- Currently Post-Training Engineering Intern @ [Baseten](https://www.baseten.co/)
 - Co-Director at [Hack the North](https://www.hackthenorth.com) (Canada's largest hackathon)
 - Former Product and Engineering Intern @ [Thrive Capital](https://www.thrivecap.com) working on tooling for venture capital teams
 - 2x Software Engineering Intern @ Bloomberg working on semantic search, model training, and multi-agent systems
