@@ -15,7 +15,7 @@ I build products that solve problems, host events that bring interesting people 
 - Former Product and Engineering Intern @ [Thrive Capital](https://www.thrivecap.com) working on tooling for venture capital teams
 - 2x Software Engineering Intern @ Bloomberg working on semantic search, model training, and multi-agent systems
 - 2x Software Engineering Intern @ Sibli working on graph algorithms and data pipelines
-- 10x Hackathon Winner
+- 11x Hackathon Winner
 
 ## 📫 How to Connect:
-If you're ever interested in chatting, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ian-korovinsky/) or [X](https://www.x.com/ikorovinsky)!
+If you're ever interested in chatting, feel free to reach out to me on [X](https://www.x.com/ikorovinsky)!
